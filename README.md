@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @St12n
+- 👋 Hi, I’m Stijn
 - 👀 I’m interested in 3D printing, cycling, (board)games and cooking.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
